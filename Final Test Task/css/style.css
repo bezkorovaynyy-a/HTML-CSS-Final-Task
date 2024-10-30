@@ -101,16 +101,16 @@ main {
     background-repeat: no-repeat;
 }
 .social-media > a:nth-child(1) {
-    background-image: url("../icons/social/facebook.png");
+    background-image: url("../icons/social/figma-facebook.png");
 }
 .social-media > a:nth-child(2) {
-    background-image: url("../icons/social/twitter.png");
+    background-image: url("../icons/social/figma-twitter.png");
 }
 .social-media > a:nth-child(3) {
-    background-image: url("../icons/social/instagram.png");
+    background-image: url("../icons/social/figma-instagram.png");
 }
 .social-media > a:nth-child(4) {
-    background-image: url("../icons/social/telegram.png");
+    background-image: url("../icons/social/figma-telegram.png");
 }
 .action-buttons {
     margin: 25px 0 0 2px;
